@@ -1,0 +1,26 @@
+{
+  "name": "CALCULADORA-GQSO-914",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eduardor2m/CALCULADORA-GQSO-914.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eduardor2m/CALCULADORA-GQSO-914/issues"
+  },
+  "homepage": "https://github.com/eduardor2m/CALCULADORA-GQSO-914#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
