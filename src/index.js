@@ -7,7 +7,7 @@ app.get('/', (req, res) => {
     res.send('olá mundo')
 })
 
-App.get('/soma/:a/:b', (req, res) => {
+app.get('/soma/:a/:b', (req, res) => {
     const { a, b } = req.params;
 
     if(isNaN(a)){
